@@ -9,17 +9,6 @@ a {
 
 }
 
-.maquetado {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 100px 80vb auto;
-}
-
-.header {
-    background-color: cadetblue;
-    grid-column: 1/5;
-}
-
 .aside {
     background-color: darkblue;
 }
@@ -50,12 +39,7 @@ a {
     display: flex;
 }
 
-.elementos {
-    display: inline-block;
-    justify-content: center;
-}
-
 .estilodeelementos {
-    text-align: center;
+    text-align: end;
     font-size: x-large;
 }
