@@ -4,6 +4,11 @@
 }
 
 .titulo {
-    display: flexbox;
+    display: flex;
+    justify-content: center;
+}
+
+.maps {
+    display: flex;
     justify-content: center;
 }
